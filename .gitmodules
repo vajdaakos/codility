@@ -1,0 +1,3 @@
+[submodule "01_01_binary_gap"]
+	path = 01_01_binary_gap
+	url = git@github.com:vajdaakos/01_01_binary_gap.git
