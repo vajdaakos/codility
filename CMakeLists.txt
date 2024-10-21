@@ -4,3 +4,4 @@ project(codility LANGUAGES C)
 
 add_subdirectory(01_01_binary_gap)
 add_subdirectory(02_01_cyclic_rotation)
+add_subdirectory(02_02_-odd_occurrences_in_array)
