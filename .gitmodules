@@ -4,3 +4,6 @@
 [submodule "02_01_cyclic_rotation"]
 	path = 02_01_cyclic_rotation
 	url = git@github.com:vajdaakos/02_01_cyclic_rotation.git
+[submodule "02_02_-odd_occurrences_in_array"]
+	path = 02_02_-odd_occurrences_in_array
+	url = git@github.com:vajdaakos/02_02_-odd_occurrences_in_array.git
