@@ -7,3 +7,6 @@
 [submodule "02_02_-odd_occurrences_in_array"]
 	path = 02_02_-odd_occurrences_in_array
 	url = git@github.com:vajdaakos/02_02_-odd_occurrences_in_array-START.git
+[submodule "03_01_Frog_jump"]
+	path = 03_01_Frog_jump
+	url = git@github.com:vajdaakos/03_01_Frog_jump.git
