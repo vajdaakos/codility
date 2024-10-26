@@ -13,3 +13,6 @@
 [submodule "03_02_Perm_missing_elem"]
 	path = 03_02_Perm_missing_elem
 	url = git@github.com:vajdaakos/03_02_Perm_missing_elem.git
+[submodule "03_03_Tape_Equilibrium"]
+	path = 03_03_Tape_Equilibrium
+	url = git@github.com:vajdaakos/03_03_Tape_Equilibrium.git
