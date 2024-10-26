@@ -8,31 +8,6 @@
 	"launch": {
 		"version": "0.2.0",
 		"configurations": [
-        {
-            "name": "(gdb) Launch 01_01_binary_gap",
-            "type": "cppdbg",
-            "request": "launch",
-            "program": "${workspaceFolder}/build/01_01_binary_gap/01_01_binary_gap",
-            "args": [],
-            "stopAtEntry": false,
-            "cwd": "${fileDirname}",
-            "environment": [],
-            "externalConsole": false,
-            "MIMode": "gdb",
-            "setupCommands": [
-                {
-                    "description": "Enable pretty-printing for gdb",
-                    "text": "-enable-pretty-printing",
-                    "ignoreFailures": true
-                },
-                {
-                    "description": "Set Disassembly Flavor to Intel",
-                    "text": "-gdb-set disassembly-flavor intel",
-                    "ignoreFailures": true
-                }
-            ]
-        }
-
     ]
 	}
 }
