@@ -16,3 +16,6 @@
 [submodule "03_03_Tape_Equilibrium"]
 	path = 03_03_Tape_Equilibrium
 	url = git@github.com:vajdaakos/03_03_Tape_Equilibrium.git
+[submodule "04_01_Frog_River_One"]
+	path = 04_01_Frog_River_One
+	url = git@github.com:vajdaakos/04_01_Frog_River_One.git
