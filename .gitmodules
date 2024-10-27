@@ -19,3 +19,6 @@
 [submodule "04_01_Frog_River_One"]
 	path = 04_01_Frog_River_One
 	url = git@github.com:vajdaakos/04_01_Frog_River_One.git
+[submodule "04_03_Max_Counters"]
+        path = 04_03_Max_Counters
+        url = git@github.com:vajdaakos/04_03_Max_Counters.git
